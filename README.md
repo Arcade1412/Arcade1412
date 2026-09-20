@@ -15,7 +15,7 @@ I build data analytics solutions that turn raw data into actionable business ins
 
 ## Featured Projects
 
-### 🏦 Lending Portfolio & Credit Risk Analytics
+### 🏦 Lending Portfolio & Credit Risk Analytics(in process-60%)
 SQL + Power BI + Excel
 
 Analyzed lending portfolio performance, borrower segmentation, and credit-risk indicators.
