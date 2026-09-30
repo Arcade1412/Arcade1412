@@ -2,20 +2,20 @@
 
 ### 📊 Data Analyst | BI Analyst | BFSI Analytics
 
-**MBA in Marketing Management | B.Com (Finance)**
+**MBA | MIT-WPU, Pune**  
+**B.Com | Finance**
 
-I build data analytics solutions that transform raw data into
+I build data analytics solutions that transform raw data into  
 **actionable business insights** using SQL, Power BI, Excel, and Python.
 
-My background in **banking, business, finance, and marketing** helps me
-approach analytics from both a **technical and business perspective**.
+My background in **banking, business, finance, and marketing** helps me approach analytics from both a **technical and business perspective**.
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 🎓 **MBA – Marketing Management** | MIT-WPU, Pune
-- 🎓 **B.Com – Finance**
+- 🎓 **MBA | MIT-WPU, Pune**
+- 🎓 **B.Com | Finance**
 - 🏦 Banking experience in **BFSI / Private Banking**
 - 📊 Focused on **Data Analytics, Business Intelligence & Risk Analytics**
 - 🛠️ Building end-to-end projects using **SQL + Power BI + Excel**
@@ -49,9 +49,7 @@ approach analytics from both a **technical and business perspective**.
 
 **SQL + Power BI + Excel**
 
-End-to-end BFSI analytics project focused on lending portfolio
-performance, borrower segmentation, loan characteristics, and
-credit-risk indicators.
+End-to-end BFSI analytics project focused on lending portfolio performance, borrower segmentation, loan characteristics, and credit-risk indicators.
 
 **Key Areas:**
 - Portfolio & loan performance analysis
@@ -67,8 +65,7 @@ credit-risk indicators.
 
 **MySQL + Power BI**
 
-End-to-end retail analytics project analyzing sales performance,
-customer behavior, product performance, and business KPIs.
+End-to-end retail analytics project analyzing sales performance, customer behavior, product performance, and business KPIs.
 
 **Key Areas:**
 - Sales & revenue analysis
@@ -84,8 +81,7 @@ customer behavior, product performance, and business KPIs.
 
 **Microsoft Excel**
 
-Analyzed **45,000+ banking campaign records** to identify customer
-segments and factors associated with term-deposit subscriptions.
+Analyzed **45,000+ banking campaign records** to identify customer segments and factors associated with term-deposit subscriptions.
 
 **Tools:** Power Query • Pivot Tables • Excel Dashboard
 
@@ -97,14 +93,13 @@ I'm currently building my career in:
 
 **Data Analytics | Business Intelligence | BFSI Analytics | Risk Analytics**
 
-I enjoy combining **business knowledge + analytical thinking + technology**
-to solve real-world business problems.
+I enjoy combining **business knowledge + analytical thinking + technology** to solve real-world business problems.
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar1412/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arcade1412)
 
