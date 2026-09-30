@@ -4,35 +4,28 @@
 
 I build data analytics solutions that turn raw data into actionable business insights.
 
-## Skills
+---
 
-- SQL
-- Power BI
-- Microsoft Excel
-- Python
-- Data Cleaning & Transformation
-- Business & Risk Analytics
+## 🛠️ Technical Skills
 
-## Featured Projects
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🏦 Lending Portfolio & Credit Risk Analytics(in process-60%)
-SQL + Power BI + Excel
+**Analytics:** Data Cleaning & Transformation • Business Analytics • Risk Analytics
 
-Analyzed lending portfolio performance, borrower segmentation, and credit-risk indicators.
+---
+
+## 📊 Featured Projects
+
+### 🏦 Lending Portfolio & Credit Risk Analytics
+**SQL + Power BI + Excel**
+
+Analyzing lending portfolio performance, borrower segmentation,
+and credit-risk indicators.
 
 ### 🛒 Retail Sales Analytics
-SQL + Power BI
+**SQL + Power BI**
 
-Built an end-to-end analytics solution covering sales performance, customer behavior, product performance, marketing channels, and geography.
-
-### 📊 Bank Marketing Campaign Analysis
-Excel
-
-Analyzed bank telemarketing campaign data to identify customer segments and factors associated with term-deposit subscriptions.
-
-## Career Focus
-
-Data Analyst | BI Analyst | Business Analyst  
-Banking & Financial Services (BFSI)
-
-📍 Pune, India
+Analyzing sales performance, customer behavior, and business KPIs.
