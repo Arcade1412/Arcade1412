@@ -15,12 +15,9 @@ My background in **banking, business, finance, and marketing** helps me approach
 ## 🧑‍💼 About Me
 
 - 🎓 **MBA | MIT-WPU, Pune**
-- 🎓 **B.Com | Finance**
-- 🏦 Banking experience in **BFSI / Private Banking**
+- 🎓 **B.Com |**
 - 📊 Focused on **Data Analytics, Business Intelligence & Risk Analytics**
-- 🛠️ Building end-to-end projects using **SQL + Power BI + Excel**
-- 📈 Interested in turning data into insights that support better business decisions
-
+  
 ---
 
 ## 🛠️ Technical Skills
