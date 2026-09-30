@@ -2,9 +2,6 @@
 
 ### Data Analyst | BI Analyst | BFSI Analytics
 
-**MBA | MIT-WPU, Pune**  
-**B.Com | MIT-WPU**
-
 I build data analytics solutions that transform raw data into
 **actionable business insights** using SQL, Power BI, Excel, and Python.
 
